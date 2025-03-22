@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e0442f73.css",
+    "main.js": "/static/js/main.51d77315.js",
+    "static/js/787.ee7e4f5e.chunk.js": "/static/js/787.ee7e4f5e.chunk.js",
+    "static/media/College-Student.png": "/static/media/College-Student.16423a38513c6c247df3.png",
+    "static/media/home-illustration.svg": "/static/media/home-illustration.d4426bdd9c3b34286d0efffe896728e8.svg",
+    "static/media/doctor.png": "/static/media/doctor.cb3bbc6e5aeaff5bfa99.png",
+    "static/media/accounting.png": "/static/media/accounting.f40a26fa10f203569ff3.png",
+    "static/media/dailyliveclasses_0c0023950f_c187155ee3.svg": "/static/media/dailyliveclasses_0c0023950f_c187155ee3.a0b52293724532b9127af5b56dd30847.svg",
+    "static/media/bank.png": "/static/media/bank.619f6b459acfbe8b9f8c.png",
+    "static/media/engineering.png": "/static/media/engineering.a7ac0b5d37ed1df75dcc.png",
+    "static/media/graduated.png": "/static/media/graduated.91f025e28c3c2814811e.png",
+    "static/media/classroom.png": "/static/media/classroom.8fbe845fe5d57ecbaf03.png",
+    "static/media/education.png": "/static/media/education.8f4259f975ce9061c201.png",
+    "static/media/online-test.png": "/static/media/online-test.689521dd59799601db45.png",
+    "static/media/syllabus_a9da21d824_b20b285483.svg": "/static/media/syllabus_a9da21d824_b20b285483.debf954ce9db1f8b68babf95091a8879.svg",
+    "static/media/open-book.png": "/static/media/open-book.8159c8f63a5d3bce1cc8.png",
+    "static/media/certificate.png": "/static/media/certificate.6168f1fd3d768863f86f.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/highlightlive_b05ed1f073_a8042bd7a8.svg": "/static/media/highlightlive_b05ed1f073_a8042bd7a8.b78fe3e2e01b0eaf2bff73f44ef3b4c5.svg",
+    "index.html": "/index.html",
+    "static/media/highlightfreecourses_bb697dbd44_47fe832f07.svg": "/static/media/highlightfreecourses_bb697dbd44_47fe832f07.a1869e062c0518d94382f3e9f0618c23.svg",
+    "static/media/highlightgoals_96d24a04e7_a8e8de225d.svg": "/static/media/highlightgoals_96d24a04e7_a8e8de225d.8551a5cfea250a598bef8ad295773471.svg",
+    "static/media/hightlighteducators_c894789a76_58c2a07e52.svg": "/static/media/hightlighteducators_c894789a76_58c2a07e52.0c5f4c1245f4980f0cb09fa733a70e46.svg",
+    "static/media/highlightminswatched_fe52bc4026_ca82eba8b0.svg": "/static/media/highlightminswatched_fe52bc4026_ca82eba8b0.3046f99bb6418a23cf61fd04d6b5fe52.svg",
+    "main.e0442f73.css.map": "/static/css/main.e0442f73.css.map",
+    "main.51d77315.js.map": "/static/js/main.51d77315.js.map",
+    "787.ee7e4f5e.chunk.js.map": "/static/js/787.ee7e4f5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0442f73.css",
+    "static/js/main.51d77315.js"
+  ]
+}
